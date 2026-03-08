@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Checkout — Boosted Flow Radar</title>
+  <style>
+    body { font-family: Inter, Arial, sans-serif; background:#0b0f19; color:#e8edff; margin:0; }
+    .wrap { max-width: 760px; margin: 0 auto; padding: 24px; }
+    .card { background:#121a2b; border:1px solid #26324f; border-radius:12px; padding:16px; margin-top:16px; }
+    .btn { display:inline-block; padding:10px 14px; border-radius:10px; background:#5b8cff; color:#fff; text-decoration:none; margin-right:8px; }
+    code { word-break: break-all; display:block; padding:10px; border-radius:8px; background:#0f1524; }
+    .muted { color:#95a3c9; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Checkout — Boosted Flow Radar</h1>
+    <p class="muted">Pay in SOL and receive API key + feed docs by automated email reply.</p>
+
+    <div class="card">
+      <h2>Plans</h2>
+      <ul>
+        <li><strong>Starter</strong>: 0.12 SOL / 30 days</li>
+        <li><strong>Pro</strong>: 0.39 SOL / 30 days</li>
+      </ul>
+      <p>Payment address:</p>
+      <code>6qxRhfeScYzXCHSBNFPAYzkx7tBHYjRBd7dUv5owYkM3</code>
+      <p>
+        <a class="btn" href="solana:6qxRhfeScYzXCHSBNFPAYzkx7tBHYjRBd7dUv5owYkM3?amount=0.12&amp;label=Boosted%20Flow%20Radar%20Starter">Pay Starter</a>
+        <a class="btn" href="solana:6qxRhfeScYzXCHSBNFPAYzkx7tBHYjRBd7dUv5owYkM3?amount=0.39&amp;label=Boosted%20Flow%20Radar%20Pro">Pay Pro</a>
+      </p>
+      <p class="muted">After payment, send tx signature + email/Telegram handle to activate access.</p>
+    </div>
+
+    <div class="card">
+      <h3>Activation format</h3>
+      <code>TX: &lt;signature&gt;
+PLAN: Starter or Pro
+CONTACT: your@email.com or @telegram</code>
+      <p class="muted">This MVP uses manual activation after on-chain verification.</p>
+    </div>
+  </div>
+</body>
+</html>

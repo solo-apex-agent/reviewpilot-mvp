@@ -1,0 +1,253 @@
+{
+  "generated_at_utc": "2026-03-08T15:06:52+00:00",
+  "chain": "solana",
+  "top_exhaustion": [
+    {
+      "token": "HORNERO",
+      "chain": "solana",
+      "score": 67.94,
+      "boost": 530,
+      "vliq": 103.9,
+      "h1": 0.17,
+      "h6": -91.52,
+      "liq_usd": 5519.84,
+      "vol24_usd": 573530.94,
+      "url": "https://dexscreener.com/solana/f2b6nwghc16qjn7vfj5mccjx8vhp5f1y2dyc1bkrp9uf"
+    },
+    {
+      "token": "MIRABEL",
+      "chain": "solana",
+      "score": 65.99,
+      "boost": 100,
+      "vliq": 146.37,
+      "h1": -0.26,
+      "h6": -93.42,
+      "liq_usd": 3805.56,
+      "vol24_usd": 557020.93,
+      "url": "https://dexscreener.com/solana/bhynaxqstmecd32tkdqfrerq1j9iui3dgpppfzmkbxrr"
+    },
+    {
+      "token": "TOKAHOUSE",
+      "chain": "solana",
+      "score": 62.78,
+      "boost": 50,
+      "vliq": 244.51,
+      "h1": -64.41,
+      "h6": 193.0,
+      "liq_usd": 34801.33,
+      "vol24_usd": 8509207.14,
+      "url": "https://dexscreener.com/solana/gdbfagqw17rvja4d6kblxec3ac3yu6qcu6sqwbhlq6jg"
+    },
+    {
+      "token": "KIMJONG",
+      "chain": "solana",
+      "score": 57.85,
+      "boost": 500,
+      "vliq": 153.09,
+      "h1": -0.12,
+      "h6": -22.9,
+      "liq_usd": 8767.14,
+      "vol24_usd": 1342202.49,
+      "url": "https://dexscreener.com/solana/4rs27dnpsojpbxscroj22ytl8khhhny9wqhrjyckjgpu"
+    },
+    {
+      "token": "Hate",
+      "chain": "solana",
+      "score": 54.07,
+      "boost": 500,
+      "vliq": 111.51,
+      "h1": 2.6,
+      "h6": -25.34,
+      "liq_usd": 11276.31,
+      "vol24_usd": 1257422.56,
+      "url": "https://dexscreener.com/solana/5g7afkfocrzkglt5nkexscrbyukpqqwfmar6kr2sybf8"
+    },
+    {
+      "token": "Neko",
+      "chain": "solana",
+      "score": 52.29,
+      "boost": 60,
+      "vliq": 28.72,
+      "h1": -30.77,
+      "h6": -51.75,
+      "liq_usd": 10015.19,
+      "vol24_usd": 287623.53,
+      "url": "https://dexscreener.com/solana/5vj2oelhcycgutz96bqtqevagltge2qngqmeh1xm6qd1"
+    },
+    {
+      "token": "WARCHAN",
+      "chain": "solana",
+      "score": 51.04,
+      "boost": 200,
+      "vliq": 242.23,
+      "h1": 0.06,
+      "h6": -3.1,
+      "liq_usd": 3512.4,
+      "vol24_usd": 850818.9,
+      "url": "https://dexscreener.com/solana/ejpatad8oeq1hkektwsgaue4v8rxpcksvezcf3ljqyc4"
+    },
+    {
+      "token": "trenchpedgy",
+      "chain": "solana",
+      "score": 49.8,
+      "boost": 100,
+      "vliq": 152.98,
+      "h1": 0.27,
+      "h6": -0.86,
+      "liq_usd": 3457.84,
+      "vol24_usd": 528993.5,
+      "url": "https://dexscreener.com/solana/emk19zvck81hcjldxgn8ppjkjm57mkh42qvyoaxjg3dc"
+    },
+    {
+      "token": "GOLDENHOUSE",
+      "chain": "solana",
+      "score": 47.9,
+      "boost": 100,
+      "vliq": 114.51,
+      "h1": 0.16,
+      "h6": -3.08,
+      "liq_usd": 3687.04,
+      "vol24_usd": 422198.95,
+      "url": "https://dexscreener.com/solana/6b7cwiarhgc915fu91hyxt2gzbbpfp2qkzb5lbdqtrkj"
+    },
+    {
+      "token": "MemesHouse",
+      "chain": "solana",
+      "score": 43.54,
+      "boost": 100,
+      "vliq": 84.88,
+      "h1": -0.64,
+      "h6": -0.78,
+      "liq_usd": 3700.35,
+      "vol24_usd": 314085.29,
+      "url": "https://dexscreener.com/solana/2ggnyhmq9p5iqbyu998ejp6cclig9cmm3dvc3hyu5hri"
+    }
+  ],
+  "top_momentum": [
+    {
+      "token": "MOONY",
+      "chain": "solana",
+      "score": 69.34,
+      "boost": 300,
+      "vliq": 16.89,
+      "h1": 51.25,
+      "h6": 235.0,
+      "liq_usd": 33073.27,
+      "vol24_usd": 558453.05,
+      "url": "https://dexscreener.com/solana/7agq7hbtfc2aogepx6hhryhy5s5pcobh5qxaz6domjsz"
+    },
+    {
+      "token": "Messenger",
+      "chain": "solana",
+      "score": 66.65,
+      "boost": 100,
+      "vliq": 35.38,
+      "h1": 30.24,
+      "h6": 490.0,
+      "liq_usd": 37500.65,
+      "vol24_usd": 1326793.92,
+      "url": "https://dexscreener.com/solana/fu1xwjhxwpneo1csuxjqsa4n7acu9buismxfbxfyu5vb"
+    },
+    {
+      "token": "TOKAHOUSE",
+      "chain": "solana",
+      "score": 64.98,
+      "boost": 50,
+      "vliq": 244.51,
+      "h1": -64.41,
+      "h6": 193.0,
+      "liq_usd": 34801.33,
+      "vol24_usd": 8509207.14,
+      "url": "https://dexscreener.com/solana/gdbfagqw17rvja4d6kblxec3ac3yu6qcu6sqwbhlq6jg"
+    },
+    {
+      "token": "PANTHEON",
+      "chain": "solana",
+      "score": 58.34,
+      "boost": 60,
+      "vliq": 20.33,
+      "h1": 26.13,
+      "h6": 125.0,
+      "liq_usd": 9672.93,
+      "vol24_usd": 196611.36,
+      "url": "https://dexscreener.com/solana/abypuhuzplhskhfyion6ey1tbkk9wwmbzebnzs22rznr"
+    },
+    {
+      "token": "42",
+      "chain": "solana",
+      "score": 57.11,
+      "boost": 110,
+      "vliq": 55.98,
+      "h1": -18.17,
+      "h6": 281.0,
+      "liq_usd": 30783.3,
+      "vol24_usd": 1723391.71,
+      "url": "https://dexscreener.com/solana/cscyln892topvuvzuvvk7rpbpcqf7nh4abtdcpkxgc7a"
+    },
+    {
+      "token": "Hate",
+      "chain": "solana",
+      "score": 52.08,
+      "boost": 500,
+      "vliq": 111.51,
+      "h1": 2.6,
+      "h6": -25.34,
+      "liq_usd": 11276.31,
+      "vol24_usd": 1257422.56,
+      "url": "https://dexscreener.com/solana/5g7afkfocrzkglt5nkexscrbyukpqqwfmar6kr2sybf8"
+    },
+    {
+      "token": "HORNERO",
+      "chain": "solana",
+      "score": 50.12,
+      "boost": 530,
+      "vliq": 103.9,
+      "h1": 0.17,
+      "h6": -91.52,
+      "liq_usd": 5519.84,
+      "vol24_usd": 573530.94,
+      "url": "https://dexscreener.com/solana/f2b6nwghc16qjn7vfj5mccjx8vhp5f1y2dyc1bkrp9uf"
+    },
+    {
+      "token": "KIMJONG",
+      "chain": "solana",
+      "score": 48.29,
+      "boost": 500,
+      "vliq": 153.09,
+      "h1": -0.12,
+      "h6": -22.9,
+      "liq_usd": 8767.14,
+      "vol24_usd": 1342202.49,
+      "url": "https://dexscreener.com/solana/4rs27dnpsojpbxscroj22ytl8khhhny9wqhrjyckjgpu"
+    },
+    {
+      "token": "MIRABEL",
+      "chain": "solana",
+      "score": 45.86,
+      "boost": 100,
+      "vliq": 146.37,
+      "h1": -0.26,
+      "h6": -93.42,
+      "liq_usd": 3805.56,
+      "vol24_usd": 557020.93,
+      "url": "https://dexscreener.com/solana/bhynaxqstmecd32tkdqfrerq1j9iui3dgpppfzmkbxrr"
+    },
+    {
+      "token": "GROYPER",
+      "chain": "solana",
+      "score": 45.82,
+      "boost": 100,
+      "vliq": 99.86,
+      "h1": 0.0,
+      "h6": -0.48,
+      "liq_usd": 3241.32,
+      "vol24_usd": 323670.99,
+      "url": "https://dexscreener.com/solana/jbmhmegjasckywjj1rghljpgrgvmkuvuftrq9etbnpd8"
+    }
+  ],
+  "checkout_address": "6qxRhfeScYzXCHSBNFPAYzkx7tBHYjRBd7dUv5owYkM3",
+  "pricing_sol": {
+    "starter": 0.12,
+    "pro": 0.39
+  }
+}
